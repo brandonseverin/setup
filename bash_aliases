@@ -23,6 +23,7 @@ alias getpass="openssl rand -base64 20"
 alias untar="tar -zxvf"
 alias ping="ping -c 5"
 alias suspend="systemctl suspend"
+alias ana="anaconda-navigator"
 
 # Prompts and verbose
 alias mv="mv -v"
