@@ -24,6 +24,7 @@ alias untar="tar -zxvf"
 alias ping="ping -c 5"
 alias suspend="systemctl suspend"
 alias ana="anaconda-navigator"
+alias cal="calendar.google.com"
 
 # Prompts and verbose
 alias mv="mv -v"
