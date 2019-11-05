@@ -9,7 +9,7 @@ sudo add-apt-repository ppa:ubuntu-mozilla-security/ppa
 sudo apt update
 
 # Install software
-sudo apt install snap yakuake thunderbird kubuntu-desktop typora git gparted curl -y
+sudo apt install snap yakuake thunderbird kubuntu-desktop typora git gparted curl npm -y
 sudo snap install spotify pycharm-professional
 sudo snap install slack --classic 
 
