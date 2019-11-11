@@ -25,6 +25,7 @@ alias ping="ping -c 5"
 alias suspend="systemctl suspend"
 alias ana="anaconda-navigator"
 alias cal="firefox calendar.google.com"
+alias notes="firefox keep.google.com"
 
 # Prompts and verbose
 alias mv="mv -v"
