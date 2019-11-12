@@ -26,6 +26,7 @@ alias suspend="systemctl suspend"
 alias ana="anaconda-navigator"
 alias cal="firefox calendar.google.com"
 alias notes="firefox keep.google.com"
+alias backup="sudo dsmc i"
 
 # Prompts and verbose
 alias mv="mv -v"
