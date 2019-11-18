@@ -10,7 +10,7 @@ sudo apt update
 
 # Install software
 sudo apt install snap yakuake thunderbird kubuntu-desktop typora git gparted curl npm -y
-sudo snap install spotify pycharm-professional
+sudo snap install spotify pycharm-professional --classic
 sudo snap install slack --classic 
 
 sudo apt update
