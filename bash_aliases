@@ -13,7 +13,7 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
-alias ls='ls -AlhF --color=auto'
+alias ls='ls -AlhS --color=auto'
 alias c='clear'
 
 # Password generator
