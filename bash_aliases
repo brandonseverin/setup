@@ -27,7 +27,7 @@ alias ana="anaconda-navigator"
 alias cal="firefox calendar.google.com"
 alias notes="firefox keep.google.com"
 alias backup="sudo dsmc i"
-alias updatebib="cp ~/Insync/mendeley_autobib/Reading.bib ~/Insync/annotated_bib/bibliography.bib"
+alias updatebib="cp ~/Insync/mendeley_autobib/litreview.bib ~/Insync/annotated_bib/bibliography.bib"
 
 
 # Prompts and verbose
