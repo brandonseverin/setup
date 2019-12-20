@@ -9,6 +9,7 @@ function nanobk() {
 # Easier navigation 
 alias desk="cd ~/Desktop"
 alias dl="cd ~/Downloads"
+alias drive="cd ~/Insync"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
